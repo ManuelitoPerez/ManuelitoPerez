@@ -47,4 +47,4 @@ I really like to imagine new things. :ghost:
 
 Feel free to contact me :yum:
 <br><br>
-[<img src="https://img.shields.io/badge/Email-moe%40chocola.dev-orange">](mailto:jm.camachop1@uniandes.edu.co)
+[<img src="https://img.shields.io/badge/Email-jm.camachop1%40uniandes.edu.co-orange">](mailto:jm.camachop1@uniandes.edu.co)
