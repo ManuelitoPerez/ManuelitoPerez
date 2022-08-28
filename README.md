@@ -60,7 +60,7 @@ I'm Juan (21 y.o) ! :sunglasses:
 * [Initial.D](https://anilist.co/anime/185)
 * [Evangelion](https://anilist.co/anime/30)
 * [Kaguya-Sama: Love is War](https://anilist.co/anime/112641)
-* [Ze Tian Ji 4](Bokutachi wa Benkyou ga Dekinai!)
+* [Bokutachi wa Benkyou ga Dekinai!](https://anilist.co/anime/110229/Bokutachi-wa-Benkyou-ga-Dekinai/)
 <!-- favorites_anime ends -->
 
 </details>
