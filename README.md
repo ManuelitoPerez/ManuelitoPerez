@@ -2,7 +2,7 @@
 I'm Juan (21 y.o) ! :sunglasses:
 
 📚Studying at Universidad de los Andes - Colombia.<br>
-🏢Working as Middle a FullStack Developer.<br>
+🏢Working as a Middle FullStack Developer.<br>
 🌱Currently learning about native mobile development and AI.<br>
 💻Looking to improve my front-end skills.<br>
 
