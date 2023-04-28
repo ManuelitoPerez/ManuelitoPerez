@@ -1,5 +1,5 @@
 # About me:
-I'm Juan (21 y.o) ! :sunglasses:
+I'm Juan (22 y.o) ! :sunglasses:
 
 📚Studying at Universidad de los Andes - Colombia.<br>
 🏢Working as a Middle FullStack Developer.<br>
@@ -16,6 +16,7 @@ I'm Juan (21 y.o) ! :sunglasses:
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![Lua](https://img.shields.io/badge/lua-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white)
 ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)
+![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
 ### Front End
 ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
