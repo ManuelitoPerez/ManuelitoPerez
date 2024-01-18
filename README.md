@@ -4,7 +4,7 @@ I'm Juan (22 y.o) ! :sunglasses:
 Software Engineer, Initial.D Enjoyer, Sailor Moon Enjoyer. SimRacer by night.
 
 📚Studying at Universidad de los Andes - Colombia.<br>
-🏢Working as a Middle FullStack Developer.<br>
+🏢Working as a Senior Backend Developer.<br>
 🌱Currently learning about native mobile development with Flutter!.<br>
 💻Looking to improve my front-end skills.<br>
 
