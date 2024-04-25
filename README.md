@@ -75,9 +75,11 @@ Software Engineer, Initial.D Enjoyer, Sailor Moon Enjoyer. SimRacer by night.
 </details>
 
 <details>
-<summary>I'm listening to....</summary>
-  <!-- spotify starts -->
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=ju4n_&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
+<summary> 🔉I'm listening to....</summary>
+<!-- spotify starts -->
+  
+![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=ju4n_&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)
+
 <!-- spotify ends>
 </details>
 
