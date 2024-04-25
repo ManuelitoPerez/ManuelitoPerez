@@ -1,14 +1,12 @@
 # About me:
-I'm Juan (22 y.o) ! :sunglasses:
+I'm Juan Manuel (23 y.o) ! :sunglasses:
 
 Software Engineer, Initial.D Enjoyer, Sailor Moon Enjoyer. SimRacer by night.
 
 📚Studying at Universidad de los Andes - Colombia.<br>
-🏢Working as a Senior Backend Developer.<br>
-🌱Currently learning about native mobile development with Flutter!.<br>
-💻Looking to improve my front-end skills.<br>
-
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=ju4n_&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
+🏢Working as a Senior Software Engineer at duppla!.<br>
+🌱Currently learning about FastAPI, SQL Model and some Python libraries!.<br>
+💻Looking to colaborate in game projects.<br>
 
 ## :page_with_curl: My stack:
 ### Languages
@@ -34,7 +32,9 @@ Software Engineer, Initial.D Enjoyer, Sailor Moon Enjoyer. SimRacer by night.
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
 ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
-![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) 
+![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) 
+![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) 
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
 ### Database
 ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Sever-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
@@ -50,6 +50,8 @@ Software Engineer, Initial.D Enjoyer, Sailor Moon Enjoyer. SimRacer by night.
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
 ### Cloud
 ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=azure-devops&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white)
 ### Containers
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 
@@ -70,6 +72,10 @@ Software Engineer, Initial.D Enjoyer, Sailor Moon Enjoyer. SimRacer by night.
 * [Kaguya-Sama: Love is War](https://anilist.co/anime/112641)
 * [Bokutachi wa Benkyou ga Dekinai!](https://anilist.co/anime/110229/Bokutachi-wa-Benkyou-ga-Dekinai/)
 <!-- favorites_anime ends -->
+
+<!-- spotify starts -->
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=ju4n_&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
+<!-- spotify ends>
 
 </details>
 
