@@ -72,11 +72,13 @@ Software Engineer, Initial.D Enjoyer, Sailor Moon Enjoyer. SimRacer by night.
 * [Kaguya-Sama: Love is War](https://anilist.co/anime/112641)
 * [Bokutachi wa Benkyou ga Dekinai!](https://anilist.co/anime/110229/Bokutachi-wa-Benkyou-ga-Dekinai/)
 <!-- favorites_anime ends -->
+</details>
 
-<!-- spotify starts -->
+<details>
+<summary>I'm listening to....</summary>
+  <!-- spotify starts -->
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=ju4n_&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
 <!-- spotify ends>
-
 </details>
 
 Feel free to contact me :yum:
