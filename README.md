@@ -8,6 +8,9 @@ Software Engineer, Initial.D Enjoyer, Sailor Moon Enjoyer. SimRacer by night.
 🌱Currently learning about FastAPI, SQL Model and some Python libraries!.<br>
 💻Looking to colaborate in game projects.<br>
 
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=BalaclavaAM)](https://github.com/BalaclavaAM/github-profile-trophy)
+
 ## :page_with_curl: My stack:
 ### Languages
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
@@ -79,9 +82,6 @@ Software Engineer, Initial.D Enjoyer, Sailor Moon Enjoyer. SimRacer by night.
 <!-- spotify starts -->
   
 ![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=ju4n_&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)
-
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=BalaclavaAM)](https://github.com/BalaclavaAM/github-profile-trophy)
 
 <!-- spotify ends>
 </details>
