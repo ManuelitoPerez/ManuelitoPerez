@@ -80,6 +80,9 @@ Software Engineer, Initial.D Enjoyer, Sailor Moon Enjoyer. SimRacer by night.
   
 ![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=ju4n_&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)
 
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=BalaclavaAM)](https://github.com/BalaclavaAM/github-profile-trophy)
+
 <!-- spotify ends>
 </details>
 
