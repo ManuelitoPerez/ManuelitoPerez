@@ -1,10 +1,10 @@
 # About me:
-I'm Juan Manuel (23 y.o) ! :sunglasses:
+I'm Juan Manuel (24 y.o) ! :sunglasses:
 
 Software Engineer, Initial.D Enjoyer, Sailor Moon Enjoyer. SimRacer by night.
 
 📚Studying at Universidad de los Andes - Colombia.<br>
-🏢Working as a Senior Software Engineer at duppla!.<br>
+🏢Working as a Software Engineer at duppla!.<br>
 🌱Currently learning about FastAPI, SQL Model and some Python libraries!.<br>
 💻Looking to colaborate in game projects.<br>
 
