@@ -9,7 +9,7 @@ Software Engineer, Initial.D Enjoyer, Sailor Moon Enjoyer. SimRacer by night.
 💻Looking to colaborate in game projects.<br>
 
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=BalaclavaAM)](https://github.com/BalaclavaAM/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=ManuelitoPerez)](https://github.com/ManuelitoPerez/github-profile-trophy)
 
 ## :page_with_curl: My stack:
 ### Languages
