@@ -62,7 +62,7 @@ Software Engineer, Initial.D Enjoyer, Sailor Moon Enjoyer. SimRacer by night.
 
 ![Balaclava's github stats](https://github-readme-stats.vercel.app/api?username=ManuelitoPerez&theme=dark&hide_border=true&include_all_commits=true&count_private=true)<br/>
 ![Balaclava's github stats](https://github-readme-streak-stats.herokuapp.com/?user=ManuelitoPerez&theme=dark&hide_border=true)<br/>
-![Balaclava's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=BalaclavaAM&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+![Balaclava's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=ManuelitoPerez&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
 ## 🙆 Some Personal Data:
 
@@ -84,9 +84,3 @@ Software Engineer, Initial.D Enjoyer, Sailor Moon Enjoyer. SimRacer by night.
 ![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=ju4n_&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)
 
 <!-- spotify ends>
-</details>
-
-Feel free to contact me :yum:
-<br><br>
-[<img src="https://img.shields.io/badge/Email-jm.camachop1%40uniandes.edu.co-orange">](mailto:jm.camachop1@uniandes.edu.co)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/BalaclavaAM) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/juan-manuel-camacho-pérez-247848224/)
