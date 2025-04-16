@@ -60,8 +60,8 @@ Software Engineer, Initial.D Enjoyer, Sailor Moon Enjoyer. SimRacer by night.
 
 ## 🌠 GitHub Stats:
 
-![Balaclava's github stats](https://github-readme-stats.vercel.app/api?username=BalaclavaAM&theme=dark&hide_border=true&include_all_commits=true&count_private=true)<br/>
-![Balaclava's github stats](https://github-readme-streak-stats.herokuapp.com/?user=BalaclavaAM&theme=dark&hide_border=true)<br/>
+![Balaclava's github stats](https://github-readme-stats.vercel.app/api?username=ManuelitoPerez&theme=dark&hide_border=true&include_all_commits=true&count_private=true)<br/>
+![Balaclava's github stats](https://github-readme-streak-stats.herokuapp.com/?user=ManuelitoPerez&theme=dark&hide_border=true)<br/>
 ![Balaclava's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=BalaclavaAM&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
 ## 🙆 Some Personal Data:
